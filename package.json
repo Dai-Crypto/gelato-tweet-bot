@@ -1,0 +1,11 @@
+{
+  "name": "gelato-tweet-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "needle": "^2.6.0"
+  }
+}
